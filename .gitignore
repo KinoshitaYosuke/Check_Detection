@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Check_Detection/result_data
+/Check_Detection/test_data
+/Check_Detection/Sun_Nov_26_11_22_24_45.bmp
+/Check_Detection/Sun_Nov_26_11_22_21_40.bmp
+/Check_Detection/Sun_Nov_26_11_21_46_84.bmp
